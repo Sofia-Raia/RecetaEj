@@ -1,0 +1,19 @@
+html{
+    align-content: center;
+}
+
+h1{
+    color: rgb(10, 23, 163);
+    padding:15px;
+}
+main.container{
+   
+    display: flex;
+    flex-direction: column;
+}
+.box1{
+    padding: 15px;
+}
+
+
+

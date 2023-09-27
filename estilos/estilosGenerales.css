@@ -1,0 +1,31 @@
+footer{
+    background-color: aliceblue;
+   position: absolute;
+   bottom: 0;
+   left: 0;
+   right: 0;
+  height: 50px;
+  align-content: center;
+  padding-top: 15px;
+  padding-left: 15px;
+  font-weight: bold;
+}
+footer:hover{
+    color: chartreuse;
+}
+body{
+    background-color: rgba(182, 229, 219, 0.895) ;
+    position: relative;
+    min-height: 100vh;
+    padding-bottom: 50px;
+    
+}
+nav{
+    font-weight: bold;
+}
+.nav-link:hover{
+    color:#c434c1d5;
+}
+.nav-link:focus{
+    color:#2d1eb6;
+}

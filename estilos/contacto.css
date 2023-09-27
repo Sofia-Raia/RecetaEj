@@ -1,0 +1,14 @@
+.container-fluid{
+  
+    justify-content: center;
+    
+}
+main{
+    background-color: rgba(182, 229, 219, 0.895) ;
+    font-weight: bold;
+
+}
+button{
+    margin-top: 15px;
+    
+}

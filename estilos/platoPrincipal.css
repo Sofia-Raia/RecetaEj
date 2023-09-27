@@ -1,0 +1,27 @@
+
+main{
+    height:100%;
+    margin:0;
+    
+}
+main.container{
+    
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-flow: wrap;
+ 
+}
+.box1 h1{
+    padding: 20px;
+}
+.box2{
+   
+    border-radius: 5px;
+    border: 2px dotted blue;
+    padding: 15px;
+    justify-items: center;
+   
+}
+
+
